@@ -1,7 +1,16 @@
-# Demo Repository
 
-🚀 This is a demo repository for the Version Control Essentials course.
+# ✨NEW SHINY METHAD FOUND IN Pokemon Legends ZA✨
 
-🧠 README files are used to provide information about the project, such as how to install it, how to use it, and how to contribute to it.
+Its very easy to pull off 
 
-🔻 You can use Markdown to format your README file. Markdown is a lightweight markup language that allows you to write formatted text using plain text syntax. You can learn more about Markdown at [https://www.markdownguide.org/](https://www.markdownguide.org/).
+## How to do the methad 
+
+1. Go to the wild area you want to shiny hunt in
+
+2. Find the Pokemon you want to shiny hunt
+
+3. Put a marker down where that Pokemon spawns
+
+4. Then fast travel to the area and make sure the marker is within 50
+
+5. Then you can just continuasly keep fast traveling to the area and within an hour you should have that shiny Pokemon you're looking for👍
