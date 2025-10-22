@@ -14,3 +14,6 @@ Its very easy to pull off
 4. Then fast travel to the area and make sure the marker is within 50
 
 5. Then you can just continuously keep fast traveling to the area and within an hour you should have that shiny Pokémon you're looking for👍
+
+
+## this is the DEV branch.
